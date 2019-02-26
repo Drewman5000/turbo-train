@@ -1,0 +1,23 @@
+ {
+    "type": "minecraft:computer_block",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key": {
+        "R":
+        {
+            "item": "mm:dominomicon"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mm:computer_block",
+        "count": 1
+    }
+}

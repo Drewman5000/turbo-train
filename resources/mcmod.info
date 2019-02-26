@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mm",
+  "name": "Machinecraft",
+  "description": "A Mod by DMan6000",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DMan6000", "Linadan03"],
+  "credits": "The Forge and FML guys, and Thanks Loremaster.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+//Items
+item.dominomicon.name=Dominomicon
+item.dominomicon_guide.name=Dominomicon Guide
+
+//Blocks
+tile.computer_block.name=Computer
